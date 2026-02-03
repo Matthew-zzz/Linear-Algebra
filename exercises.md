@@ -119,6 +119,7 @@ $$
 
 Вектор данных и Вектор направления  
 $$  
+  
 x =  
 \begin{bmatrix}  
 3 \  
@@ -129,7 +130,7 @@ v =
 \begin{bmatrix}  
 1 \  
 1  
-\end{bmatrix}  
+\end{bmatrix} 
 $$
 
 **Задача:**
